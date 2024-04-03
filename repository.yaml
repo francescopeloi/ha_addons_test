@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: MPI TEST Home Assistant add-on repository
-url: 'https://github.com/manup/ha_addons_test'
-maintainer: Manuel Pietschmann <mpi@dresden-elektronik.de>
+name: TEST Home Assistant add-on repository
+url: 'https://github.com/francescopeloi/ha_addons_test'
+maintainer: Francesco Peloi <francesco.peloi@gmail.com>
