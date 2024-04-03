@@ -1,12 +1,8 @@
 # Changelog
 
-## 6.25.0
-
-- Bump to deCONZ v2.24.3
-
 ## 6.24.0
 
-- Enable debug webapp in /data directory
+- Bump deCONZ to 2.26.3
 
 ## 6.23.0
 
